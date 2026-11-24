@@ -163,7 +163,7 @@ def main():                                                  # CAMBIO: fuera de 
 
 
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
 
 
